@@ -1,3 +1,5 @@
+/*Write a C language program to enter n elements in array and find second smallest number from the array. */
+
 #include <stdio.h>
 
 int main(){
